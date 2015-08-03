@@ -1,2 +1,9 @@
-# RetrofitRxJavaRetroLambdaDataBindingBoilerPlate
-Boilerplate for the libs mentioned in the title
+**R**etrofit
+
+**R**xJava
+
+**R**etroLambda
+
+**D**ataBinding
+
+**B**oilerPlate
